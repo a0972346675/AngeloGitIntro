@@ -11,3 +11,9 @@ https://github.com/twtrubiks/Git-Tutorials
 
 ## 影片教學
 https://www.youtube.com/watch?v=py3n6gF5Y00
+
+## 在 Windows 10 安裝 Git
+https://etrex.tw/free_chatbot_book/windows_dev/git.html
+
+
+
